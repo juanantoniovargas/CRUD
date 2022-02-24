@@ -1,0 +1,26 @@
+/******************* HOJA DE ESTILOS PARA CRUD *****************/
+
+@font-face {
+    font-family: titulo;
+    src: url(../fonts/Staatliches-Regular.ttf);
+}
+
+.fondo {background-image: url(../images/fondo\ index.jpg);
+        background-size: cover;
+        background-position: center;}
+
+.fondo2 {background-image: url(../images/fondo\ inserción.jpg);
+        background-size: cover;
+        background-position: center;}
+
+.fondo3 {background-image: url(../images/fondo\ edicion.jpg);
+        background-size: cover;
+        background-position: center;}
+
+.fondo4 {background-image: url(../images/fondo\ consulta.png);
+        background-size: cover;
+        background-position: center;}
+
+.bg-translucido {background-color: rgba(255, 255, 255, 0.5);}
+
+h1 {font-family: titulo;}
